@@ -1,0 +1,28 @@
+
+
+
+
+
+---Admin Login Details---
+
+Email   : riskisuleman76@gmail.com
+Password: sabun12345ke
+
+---Teacher Login Details---
+
+Email   : teddy@mail.com
+Password: sabun12345ke
+
+---Student Login Details---
+
+Email   : gibran@mail.com
+Password: sabun12345ke
+
+---Parents Login Details---
+
+Email   : anwar@mail.com
+Password: sabun12345ke
+
+
+
+
